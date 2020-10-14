@@ -1,0 +1,2939 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+	<head>
+
+		
+		<title> easterEgg [イースターエッグ] </title>
+		
+
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<!-- 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		-->
+
+		<meta name="description" content="2ちゃんねる良質テキスト保管庫。">
+		<meta name="keywords" content="easterEgg, イースターエッグ, 復讐話, 報復話, 不倫・浮気の話, 旅スレ, 大人の話題, スッキリした話">
+		<meta name="verify-v1" content="YNhrqtzk03k8NuOqSZ0Wr6gcds5XqDitJh2DevkoNlA=">
+		<meta name="Robots" content="index, follow">
+		<meta name="author" content="easterEgg [イースターエッグ]">
+
+        <meta property="og:title" content="easterEgg [イースターエッグ]">
+        <meta property="og:site_name" content="easterEgg [イースターエッグ]">
+        <meta property="og:description" content="2ちゃんねる良質テキスト保管庫。">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://eegg.fun">
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="alternate" type="application/rss+xml" href="/index.rdf" title="RSS">
+		<link rel="alternate" type="application/rss+xml" href="/index.xml" title="RSS">
+		<link rel="alternate" type="application/rss+xml" href="/feeds_adult.rdf" title="RSS">
+		<link rel="alternate" type="application/rss+xml" href="/feeds_life.rdf" title="RSS">
+
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--
+		<link rel="stylesheet" href="/css/style.css">
+        -->
+
+
+		<script>
+            var dev_type = "pc";
+            var ua = navigator.userAgent;
+            if((ua.indexOf('Android') > 0 && ua.indexOf('Mobile') == -1)){
+                dev_type = "pc";
+            }else if ((ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0)){
+                dev_type = "sp";
+            }else if (ua.indexOf('iPhone') > 0){
+                dev_type = "sp";
+            }else if (ua.indexOf('iPad') > 0){
+                dev_type = "pc";
+            }else if (ua.indexOf('iPod') > 0){
+                dev_type = "sp";
+            }else if (ua.indexOf('Windows Phone') > 0){
+                dev_type = "sp";
+            }else if (ua.indexOf('WindowsPhone') > 0){
+                dev_type = "sp";
+            }else{
+                dev_type = "pc";
+            }
+
+            if(dev_type == "sp"){
+                document.write('<link rel="stylesheet" href="/css/style_sp.css">');
+            }else{
+                document.write('<link rel="stylesheet" href="/css/style.css">');
+            }
+		</script>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+        <!--
+        <script src="/js/sp_renderer.js" language="JavaScript"></script>
+        -->
+		<script src="/js/jquery.inview.min.js"></script>
+		<script src="/js/pcorsp.js"></script>
+		<script src="/js/rend.js"></script>
+
+
+		<link rel="apple-touch-icon" sizes="152x152" href="/img/apple_touch_icon/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/img/apple_touch_icon/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/img/apple_touch_icon/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/img/apple_touch_icon/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/img/apple_touch_icon/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/img/apple_touch_icon/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="57x57" href="/img/apple_touch_icon/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" href="/img/apple_touch_icon/apple-touch-icon.png">
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/apple_touch_icon/apple-touch-icon-152x152-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple_touch_icon/apple-touch-icon-144x144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/img/apple_touch_icon/apple-touch-icon-120x120-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/apple_touch_icon/apple-touch-icon-114x114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/img/apple_touch_icon/apple-touch-icon-76x76-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/apple_touch_icon/apple-touch-icon-72x72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/img/apple_touch_icon/apple-touch-icon-57x57-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="/img/apple_touch_icon/apple-touch-icon-precomposed.png">
+
+		
+		
+		
+
+		<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-52703246-1', 'auto');
+		ga('send', 'pageview');
+		</script>
+
+		<style>
+		 .navbar .navbar-nav {
+			 display: inline-block;
+			 float: none;
+		 }
+		 .navbar .navbar-collapse {
+			 text-align: center;
+		 }
+  
+		</style>
+
+        <!-- 逆アクセスランキングツール -->
+        <script type="text/javascript">
+        <!--
+        var blzPa='rank',blzUa='800',blzTa='2665';
+        -->
+        </script>
+        <script src="//js.blozoo.info/js/ranktool/analyze.js" defer></script>
+        <!-- https://blozoo.com/ -->
+
+	</head>
+
+	    <!--
+	<BODY onContextmenu="return false" class="custom">
+    -->
+	<body class="custom">
+
+
+
+				<script type="text/javascript">
+		var acc_id = encodeURIComponent("");
+		var acc_pg = encodeURIComponent("index.html");
+		</script>
+		<script src="/js/acc3.js" defer></script>
+
+
+		
+        <!--
+		<nav class="navbar navbar-inverse">
+        -->
+        <nav class="navbar navbar-inverse navbar-static-top">
+			<div class="container-fluid"><!--ウィンドウ幅に合わせて可変-->
+
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#gnavi">
+						<span class="sr-only">メニュー</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				
+                <!--
+				<div id="gnavi" class="collapse navbar-collapse">
+                -->
+				<div id="gnavi" >
+
+					<ul class="nav navbar-nav" style="font-size:11px;">
+						<li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>TOP</a></li>
+						<li><a href="/index.rdf" target="_blank"><i class="fa fa-rss"></i>RSS</a></li>
+						<li><a href="/etc/about.pl"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>このサイトについて</a></li>
+						<li><a href="/popular.pl"><span class="glyphicon glyphicon-king" aria-hidden="true"></span>人気記事</a></li>
+						<li><a href="/etc/dendou.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>殿堂入り</a></li>
+						<li><a href="/bm.pl"><span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span>後で読む</a></li>
+						<li><a href="/tags.pl?tag=25_houfuku"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span>カテゴリ別</a></li>
+                        <li><a href="/etc/pickup_adt.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>特集(大人の話題)</a></li>
+                        <li><a href="/etc/pickup_hou.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>特集(復讐)</a></li>
+                        <li><a href="/etc/pickup_tabi.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>特集(旅スレ)</a></li>
+                        <!--
+						<li><a href="/etc/links.pl"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>相互リンク</a></li>
+                        -->
+					</ul>
+
+				</div>
+
+			</div>
+		</nav>
+		<!-- 
+		<div class="navi_bar_area">
+			<div id="navi_bar" class="gcl" data-gcl-entity="base-navibar" style="font-size:1.1em;LINE-HEIGHT: 2.8em; text-align:center; ">
+				&nbsp;&nbsp;
+				<a href="/">TOP</a> | 
+				<a href="/etc/about.pl">このサイトについて</a> | 
+				<a href="/popular.pl">人気記事ランキング</a> | 
+				<a href="/etc/dendou.pl">殿堂入りおすすめ記事</a> | 
+				<a href="/tags.pl?tag=25_houfuku">カテゴリで探す</a> | 
+				<a href="/bm.pl">後でよむリスト</a> | 
+				<a href="/index.rdf" target="_blank">RSS</a> | 
+				<a href="/etc/links.pl">相互リンク</a> | 
+			</div>
+		</div>
+		<div style="line-height:0.8em;">&nbsp;</div>
+		-->
+
+
+
+				<div id="outer"> <!-- outer  -->
+
+			
+			<div class="title_area"><!-- title_area  -->
+
+				<div class="innerframe">  <div class="curve">
+					<div class="curve-head"><div></div></div>
+					<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+						<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+					</div></div>
+
+					<div class="whiteboard"><div class="top"><div></div></div><div STYLE="padding: 0px 0px 0px 10px;">
+						<div class="indent">
+							<table border="0">
+
+								<tr>
+									<td colspan="2">
+										&nbsp;&nbsp;
+										<span style="font-size:0.8em;">2chの男女恋愛に関わる
+											<span style="color:#ff0000;">復讐話</span>・
+											<span style="color:#e4832d;">寝取られ話</span>・
+											<span style="color:#009900;">旅スレ</span>
+											に特化した話題を掲載していきます。 
+
+                                            <!--
+                                            <td colspan="2">
+                                                <iframe src="/ad_html/hatena_bm01.html" width="300" height="20" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+                                            </td>
+                                            -->
+
+										</span>
+									</td>
+								</tr>
+								<tr>
+									<td width="310">
+										<a href="/">
+											<img src="/img/easterEgg_title.png" alt="easterEgg">
+										</a>
+									</td>
+
+									<td width="500">
+										<!-- admax -->
+                                        <iframe src="/ad_html/05_468x60_p01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+										<!-- admax -->
+									</td>
+
+								</tr>
+
+							</table>
+						</div><!-- /indent -->
+
+					</div><div class="bottom"><div></div></div></div>
+				</div><!-- /innerframe -->
+			</div><!--/ title_area -->
+
+
+						<div id="responce"></div>
+			<div style="line-height:0.5em;">&nbsp;</div>
+
+						<div class="content_top_area"><!-- contents top area  -->
+				
+
+
+
+
+
+<!--
+<div style="font-size:2.0rem;">
+<div class="indent">
+<div class="indent" >
+
+<span style="color:#FF0000;font-size:2.5rem;">
+<b>
+サーバーメンテナンスのお知らせ
+</b>
+</span>
+<div class="indent">
+日時：
+<span style="color:#0000FF;font-size:1.0em;">
+2020年4月15日(水) 14時〜17時 の間で1時間
+</span>
+<br>
+<span style="font-size:0.85em;">
+メンテナンス中は、サイトへのアクセスが出来ない状態になります。<br>
+</span>
+</div>
+<br>
+<div style="line-height:0.5em;">&nbsp;</div>
+<iframe src="/ad_html/11_728x90_ps01.html" width="728" height="90" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</span>
+</a>
+</div>
+</div>
+</div>
+-->
+
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">おすすめ記事</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20200303030616.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "中絶の同意書を偽造してまでも不倫を続ける妻", 1);'>中絶の同意書を偽造してまでも不倫を続ける妻</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20200310131659.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "DQNカップルに復讐を試みた", 1);'>DQNカップルに復讐を試みた</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150706234954.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "昔、先生と全裸で水泳の授業をしていたことがある", 1);'>昔、先生と全裸で水泳の授業をしていたことがある</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150502194935.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "嫁の性癖が露見。ハプニングバー、ハメ撮り、複数プレイ... 人生を丸ごと破壊する究極のＳＭプレイ。", 1);'>嫁の性癖が露見。ハプニングバー、ハメ撮り、複数プレイ... 人生を丸ごと破壊する究極のＳＭプレイ。</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150802103602.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "AV業界の思い出話をしようと思う", 1);'>AV業界の思い出話をしようと思う</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20180217150703.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "嫁が中出しされ開脚ポーズしながら笑顔でVサインの写真が出てきた", 1);'>嫁が中出しされ開脚ポーズしながら笑顔でVサインの写真が出てきた</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20190703050643.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "昨夜、同居中の義母とセ○クスしてしまった…", 1);'>昨夜、同居中の義母とセ○クスしてしまった…</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20180406115329.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "誰にもいえなかった恋愛を終わらせてきた", 1);'>誰にもいえなかった恋愛を終わらせてきた</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20180213003247.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "資産の使い込みで愛の巣まで作った汚嫁の不倫に半年前から準備していた制裁が見事にハマった", 1);'>資産の使い込みで愛の巣まで作った汚嫁の不倫に半年前から準備していた制裁が見事にハマった</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20171023190953.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "中2から中3まで輪姦され続けた思い出を吐き出す", 1);'>中2から中3まで輪姦され続けた思い出を吐き出す</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170817170921.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "妹とSEXしてしまいました", 1);'>妹とSEXしてしまいました</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20160907201900.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "お嬢様で処女だった彼女を10年かけて調教した結果", 1);'>お嬢様で処女だった彼女を10年かけて調教した結果</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20151011123309.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "不倫発覚の汚嫁。記念日の行動で再構築するか望みをかけてみた。結果、計画的に無慈悲な復讐を遂行。", 1);'>不倫発覚の汚嫁。記念日の行動で再構築するか望みをかけてみた。結果、計画的に無慈悲な復讐を遂行。</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150625232239.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "嫁から凄まじい破壊力のカミングアウトされたんだが", 1);'>嫁から凄まじい破壊力のカミングアウトされたんだが</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150502115930.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "汚嫁の凄まじい内容の浮気に数ヵ月前から完璧な準備を重ね、仕掛け発動後、高見の見物しながら実況する", 1);'>汚嫁の凄まじい内容の浮気に数ヵ月前から完璧な準備を重ね、仕掛け発動後、高見の見物しながら実況する</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20131116003332.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "数年前死にそうだった私をある人が助けてくれた話", 1);'>数年前死にそうだった私をある人が助けてくれた話</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20141115194803.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "ヤクザの情婦にされた妻", 1);'>ヤクザの情婦にされた妻</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170326080341.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "職場の女上司とセクロスしたけど女性ってなんで外と家とで違うの？？？", 1);'>職場の女上司とセクロスしたけど女性ってなんで外と家とで違うの？？？</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170507073551.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "嫁が職場上司と浮気して調教されていたので、徹底的に追い詰めた", 1);'>嫁が職場上司と浮気して調教されていたので、徹底的に追い詰めた</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi">
+	<span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170221053022.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume", "click", "３歳の息子がありえない血液型だったのでDNA鑑定したら", 1);'>３歳の息子がありえない血液型だったのでDNA鑑定したら</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<iframe src="/ad_html/11_728x90_ps02.html" width="728" height="90" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">Pickup</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<span style="font-size:0.90em;LINE-HEIGHT: 1.8em;font-weight:bold;">
+	
+</span>
+<!--
+<div class="gcl" data-gcl-entity="top-area-ant-links">
+	<div id="ant_links" style="font-size:0.90em;LINE-HEIGHT: 1.8em;font-weight:bold;">
+				<b><a href="http://1000mg.jp/" target="_blank">1000mg</a></b> | 
+<b><a href="http://2chmatomeland.seesaa.net/" target="_blank">2chまとめランド</a></b> | 
+<b><a href="http://2ch.website/" target="_blank">2chまとめ大好きサイト |</a></b> | 
+<b><a href="http://seiroganmania.com/" target="_blank">2次エロ画像まとめ 唐墨速報（からすみそくほう）</a></b> | 
+<b><a href="http://5chmatomeblog.seesaa.net/" target="_blank">5chまとめブログ</a></b> | 
+<b><a href="http://besttrendnews.net/" target="_blank">Best Trend News</a></b> | 
+<b><a href="http://lucky318b.m50.coreserver.jp/" target="_blank">Glauber通信</a></b> | 
+<br>
+<b><a href="http://life-channel.doorblog.jp/" target="_blank">LIFE CHANNEL</a></b> | 
+<b><a href="http://news-channel.doorblog.jp/" target="_blank">NEWS CHANNEL</a></b> | 
+<b><a href="http://news-choice.net/" target="_blank">NEWS CHOICE</a></b> | 
+<b><a href="http://www.news-edge.com/" target="_blank">News Edge(ニュース　エッジ)</a></b> | 
+<b><a href="http://vippers.jp/" target="_blank">VIPPER速報</a></b> | 
+<b><a href="http://aborn.matometa-antenna.com/" target="_blank">あぼーんアンテナ</a></b> | 
+<b><a href="http://konowaro.net/" target="_blank">この●●クソワロタｗｗｗ</a></b> | 
+			</div>
+</div>
+-->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div style="MARGIN-LEFT: 5px; line-height:0.5em;">
+	<div class="gcl" data-gcl-entity="top-area-ad-top">
+        <!-- ad tags Size: 728x90 ZoneId:3230-->
+        <iframe id='ac3230be' name='ac3230be' src='http://aladdin.genieesspv.jp/yie/ld/ifk?zoneid=3230' frameborder='0' scrolling='no' width='728' height='90'></iframe>
+
+	</div>
+</div>
+
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<IFRAME id="frm_rss_0" src="/rssline.html?0101_2" NAME="space" FRAMEBORDER="0" WIDTH="100%"></IFRAME>
+
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="gcl" data-gcl-entity="top-area-ad-btn">
+    <!-- ad tags Size: 728x90 ZoneId:5137-->
+    <iframe id='ac5137be' name='ac5137be' src='http://aladdin.genieesspv.jp/yie/ld/ifk?zoneid=5137' frameborder='0' scrolling='no' width='728' height='90'></iframe>
+
+</div>
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">おすすめ記事(短め)</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20131117192250.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "最愛の嫁の話", 1);'>最愛の嫁の話</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170610080740.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "サークルの先輩に調教された時の変態行為の数々", 1);'>サークルの先輩に調教された時の変態行為の数々</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20180411121619.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "子供が3歳になって他人の子だと判明し妻に復讐した", 1);'>子供が3歳になって他人の子だと判明し妻に復讐した</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170203063511.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "1ヶ月女の子と付き合ってたけど罰ゲームだったらしい", 1);'>1ヶ月女の子と付き合ってたけど罰ゲームだったらしい</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150807003210.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "いつもより早く帰宅したら嫁がオナニーして場面に遭遇してしまった", 1);'>いつもより早く帰宅したら嫁がオナニーして場面に遭遇してしまった</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20150811070922.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "嫁のはめどり写真をみつけてしまった", 1);'>嫁のはめどり写真をみつけてしまった</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170912114346.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "偶然、嫁の本音を聞いてしまった", 1);'>偶然、嫁の本音を聞いてしまった</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20180314190250.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "双子の娘と息子が付き合いはじめて半年たった", 1);'>双子の娘と息子が付き合いはじめて半年たった</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20170324133307.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "嫁の誕生日にサプライズパーティーを企画しクラッカーをもって子供と隠れてたんだけど", 1);'>嫁の誕生日にサプライズパーティーを企画しクラッカーをもって子供と隠れてたんだけど</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+<span class="pickup_title" class="gcl" data-gcl-entity="ichiosi_lite">
+	<span style="color:#aa00aa;" class="glyphicon glyphicon-chevron-right"></span>
+	<a href="/text/20141221193806.html" style="color:#3366cc;" onclick='ga("send", "event", "osusume_lite", "click", "俺の地味な彼女の話", 1);'>俺の地味な彼女の話</a><br>
+    <div style="line-height:0.5em;">&nbsp;</div>
+</span>
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+			</div><!--/ contents top area -->
+
+						<div class="contents_main_area"><!-- contents main area-->
+				
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">新規相互RSS</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<center>
+	<IFRAME id="frm_rss_index_1" SRC="/rss_top.html" NAME="space" FRAMEBORDER="0" style="width:100%;"></IFRAME>
+</center> 
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<IFRAME SRC="/iframe/index_top.html?20180818" NAME="space" FRAMEBORDER="0" scrolling="no" style="width:100%;height:250px;"></IFRAME>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">最近の注目記事</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<table id="recentry_post" class="gcl" data-gcl-entity="index-recently">
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20191207064751.html" target="_blank" onclick='ga("send", "event", "recently", "click", "夏の旅（北海道）", 1);'>夏の旅（北海道）</a>
+            (<span style="font-size:0.8em;">2020/09/05</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20200104074938.html" target="_blank" onclick='ga("send", "event", "recently", "click", "小さい娘が重体の時に間男と会う嫁、その結末は", 1);'>小さい娘が重体の時に間男と会う嫁、その結末は</a>
+            (<span style="font-size:0.8em;">2020/08/22</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20191207064124.html" target="_blank" onclick='ga("send", "event", "recently", "click", "お盆休みツーリングの写真貼る", 1);'>お盆休みツーリングの写真貼る</a>
+            (<span style="font-size:0.8em;">2020/08/17</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20191029084040.html" target="_blank" onclick='ga("send", "event", "recently", "click", "彼女が素人モノのAVに出てたのが発覚したときの話。だれか話聞いてほしい。", 1);'>彼女が素人モノのAVに出てたのが発覚したときの話。だれか話聞いてほしい。</a>
+            (<span style="font-size:0.8em;">2020/08/15</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20190427144349.html" target="_blank" onclick='ga("send", "event", "recently", "click", "嫁の不倫現場突入から再構築に向けて頑張ってる最中にある動画が見つかった", 1);'>嫁の不倫現場突入から再構築に向けて頑張ってる最中にある動画が見つかった</a>
+            (<span style="font-size:0.8em;">2020/08/09</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20200319160305.html" target="_blank" onclick='ga("send", "event", "recently", "click", "ベトナム行ってきたから勝手に語ってくわ", 1);'>ベトナム行ってきたから勝手に語ってくわ</a>
+            (<span style="font-size:0.8em;">2020/07/23</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20191209184249.html" target="_blank" onclick='ga("send", "event", "recently", "click", "ラブホの廃墟行ってきた(再訪)", 1);'>ラブホの廃墟行ってきた(再訪)</a>
+            (<span style="font-size:0.8em;">2020/06/27</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20200422111609.html" target="_blank" onclick='ga("send", "event", "recently", "click", "シングルマザーの策略", 1);'>シングルマザーの策略</a>
+            (<span style="font-size:0.8em;">2020/06/19</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20200422102240.html" target="_blank" onclick='ga("send", "event", "recently", "click", "ついにセフレができた時の話", 1);'>ついにセフレができた時の話</a>
+            (<span style="font-size:0.8em;">2020/05/28</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	    <tr>    
+        <td>
+            <span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+        </td>
+        <td>
+            <a href="/text/20191209174652.html" target="_blank" onclick='ga("send", "event", "recently", "click", "清里の廃墟群に行ってきた", 1);'>清里の廃墟群に行ってきた</a>
+            (<span style="font-size:0.8em;">2020/05/16</span>) 
+        </td>
+    </tr>    
+
+    <tr>    
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+        <td>
+            <div style="line-height:0.6em;">&nbsp;</div>
+        </td>
+    </tr>    
+
+	
+
+</table>
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<div class="link_popular gcl" data-gcl-entity="index-popular-linktext" style="font-size:1.6em; font-weight:bold;">
+	<a href="/popular.pl" style="color:#3366cc;">
+		<span style="color:#00aa00" class="glyphicon glyphicon-hand-right"></span>
+		<span style="text-decoration:underline;font-weight:bold;font-size:1.0em;">
+			最後まで読まれている記事ランキング
+		</span>
+	</a>
+
+</div>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<a href="/bm.pl">
+	<span style="text-decoration:underline;font-weight:bold;font-size:1.6em;color:#3366cc;">
+		<span class="glyphicon glyphicon-hand-right"></span>
+		後で読むリスト
+	</span>
+</a>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<div  class="index_pager gcl" data-gcl-entity="index-pager-top" style="font-weight:bold;">
+	<a href="http://eegg.fun/index.pl?p=1">|< </a>&nbsp;
+1&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=2">2</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=3">3</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=4">4</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=5">5</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=283">>| </a>&nbsp;
+
+</div>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">俺に彼女ができたと知った時の元汚嫁から来たメールがたまらなかった</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200829141519.html" class="hatena-bookmark-button" data-hatena-bookmark-title="俺に彼女ができたと知った時の元汚嫁から来たメールがたまらなかった" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-13 15:10:07</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">907 ：名無しさん＠お腹いっぱい。：2007/07/11(水) 15:07:38</span><BR><strong><span class="fcs"><BR>  俺なんて元嫁に<br>  「頼むから別れてください<BR><BR>他の男に抱かれたあなたを嫁として一生愛していけません<BR><BR>  どうしてもあなたを汚らわしい存在として見てしまいます<BR><BR>  あなたに対して性欲が全然わきません<BR><BR>  むしろ女として見れませんお願いだから別れてください」<BR><BR>  と覚めた目で言ったら元嫁絶望的な顔をして大泣きしてたなｗ<BR><BR>  懐かしい思い出だぜ<BR><BR></span></strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200829141519.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200829141519" data-item-title="俺に彼女ができたと知った時の元汚嫁から来たメールがたまらなかった" id="bm_item_20200829141519" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200829141519);ga("send", "event", "index_bm", "click", "俺に彼女ができたと知った時の元汚嫁から来たメールがたまらなかった", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200829141519.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+<table>
+<tr>
+<td>
+    <iframe src="/ad_html/04_300x250_ps01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+<td>
+    <iframe src="/ad_html/10_300x250_ps01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">職場でキーボード爆裂音叩きする人がいてストレスで禿げそうなんだが</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200609135750.html" class="hatena-bookmark-button" data-hatena-bookmark-title="職場でキーボード爆裂音叩きする人がいてストレスで禿げそうなんだが" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-13 08:45:31</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：以下、？ちゃんねるからVIPがお送りします：2020/06/08(月) 12:20:12  ID:UcvPPoHta.net</span><BR><strong><span class="fcs"><BR>  助けてくれ<BR>  <BR>  マジで爆裂音なんだよ脳味噌が破裂しそう<br></span><BR>                              </strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200609135750.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200609135750" data-item-title="職場でキーボード爆裂音叩きする人がいてストレスで禿げそうなんだが" id="bm_item_20200609135750" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200609135750);ga("send", "event", "index_bm", "click", "職場でキーボード爆裂音叩きする人がいてストレスで禿げそうなんだが", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200609135750.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+<table>
+<tr>
+<td>
+    <iframe src="/ad_html/04_300x250_ps02.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+<td>
+    <iframe src="/ad_html/10_300x250_ps02.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">嫁が 素人・人妻物のＡＶに出ているのを発見</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200529091254.html" class="hatena-bookmark-button" data-hatena-bookmark-title="嫁が 素人・人妻物のＡＶに出ているのを発見" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-12 10:25:55</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">  219 名前： 名無しさん＠お腹いっぱい。  投稿日： 2007/03/04(日) 03:05:30</span><BR><strong><span class="fcs"><BR>  嫁が素人人妻物のＡＶに出ているのを発見した時。<BR><BR>  単身赴任中に拾ったサンプルがドンピシャだった。偽名使ってたけど、どう見ても嫁だった。ほくろとかの特徴も完全一致。<br>  で、出演理由で「まだまだ遊びたい」とか「刺激が欲しい」とか言っちゃってんの。<BR><BR>  気持ち悪い猫撫で声であれこれ質問しながら腰振ってる男優に「旦那のよりおっきい」とか「プロは凄い」とか一々言っちゃってんの。<BR><BR>  で、しかも中出し。擬似じゃなくて本物。<br>  証拠としてＤＶＤ買ったりとか、あれこれと準備をした上で、嫁に離婚を突きつけた。<BR><BR>  そしたら、何か「寂しかった」とかふざけたこと言ってきた。<BR><BR>  どこかの男優のチンポ銜えて「チンチン美味しい」とか抜かしてたその口で、「大好きなのはあなただけ」「あれは演出で、本当はあなたが一番」とか言い出してきてさ、もう卓上にあったクリスタル灰皿に伸びそうになった手を抑えるのに苦労したよ。<BR><BR>  で、灰皿顔面投擲の代わりに、署名捺印全部済ませた離婚届を叩きつけてやったんだが、そしたら何か基地外みたいに喚き出した。<BR><BR>  「家計の足しにしようと思った」とか「欲しいものがあった」とか、「女が性欲持っちゃ悪いのか」とか、もう支離滅裂なこと言い出してんの。<BR><BR>  ああ、俺の名誉のために言っておくが、俺の年収は一千万近くあったから、経済的な事情というのはあり得ない。<BR>  <BR></span><BR>                              </strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200529091254.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200529091254" data-item-title="嫁が 素人・人妻物のＡＶに出ているのを発見" id="bm_item_20200529091254" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200529091254);ga("send", "event", "index_bm", "click", "嫁が 素人・人妻物のＡＶに出ているのを発見", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200529091254.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+<table>
+<tr>
+<td>
+    <iframe src="/ad_html/04_300x250_ps01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+<td>
+    <iframe src="/ad_html/10_300x250_ps03.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">自分をいじめていたヤツを一撃で倒した</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200620192811.html" class="hatena-bookmark-button" data-hatena-bookmark-title="自分をいじめていたヤツを一撃で倒した" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-11 14:55:46</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">137 ：本当にあった怖い名無し：2013/01/14(月) 12:21:33.40 ID:T8Hp+Jpv0</span><BR><strong><span class="fcs"><BR>  ちょっと暴力と汚い話含む。<BR><BR>  俺は中学生の頃太ってて、定番の軽い虐めみたいなのにあってた。<BR><BR>  学校帰りに後ろをついてきて遠くからデブだの豚だのと叫んでくるのがメインな虐め。<BR><BR>  本命のいじめられっ子が別に居て俺はサブで虐められてるって感じで、まあ自殺とか考えるほどじゃなかった。<BR><BR>  ただ腹は立つし当然辛い。<BR><BR>  他のクラスに友達は居たから何とか学校には通ってたが、やっぱ登下校は最悪の時間だった。<BR><BR>  そんな時、若干中二病的なのが入ってた当時の俺は『いつかあいつらをボコってやる』という願望、ないし妄想をはじめて布団を縛った簡易サンドバックをカーテンから吊して人を殴る練習をするという行動にハマってしまった。<BR><BR>  それもジャブを沢山撃つと疲れるというデブ思考で、やってたのは構えて思いっきりボコっと殴って戻るというループ。<BR><BR>  最初は指と手首が痛くなったりもしたんだが慣れて来る内にそれもなくなり、ボクシング漫画を参考にひたすら布団を殴ってた。<BR><BR>  しかしそんな練習をしたところで実際いじめてくる奴を殴りに行く勇気はない。<BR><BR>  目の前でやられるならともかく遠くから悪口を叫ばれてるだけだからイライラだけが募ってそれの発散で更に布団を殴る。<BR><BR>  まあそんな毎日だった。<br>  それがある日の下校途中、いつも通りに後ろから悪口を叫ばれたんだが、なんかちょっと違う。<BR><BR>  いつもデブだの豚だの叫んでる奴をAとしておくが、Aが普段より大勢のグループと一緒に歩いてたんだ。<BR><BR>  他のクラスの友人の前で『虐めやってる俺ら格好良い』アピールでもしてたんだと思う。<BR><BR>  その日の俺はたまたま凄く眠くて、その上 他の奴らも笑ってるもんだから滅茶苦茶イライラしてた。<BR><BR>  そんな状況でだ。周りに受けたのに気をよくしたんだろうか、Aが俺の方に走ってきてわざわざ前に立って俺の進路を遮って「デーーブｗｗｗｗ」って叫んだんだ。<BR><BR>  もの凄く腹の立つ顔をしてたことをよーく覚えてる。<BR><BR>  その瞬間、俺の体は見事に動いてくれた。<BR><BR>  素人そのまんまの構えをすっと取り、漫画で得た知識から腹と腰にしっかりと力をこめて左手を引く反動で肩をぐるりと回転させながら捻りを入れて右手を突き出し軽く開いた足の間で体重を滑らせ、デブだブタだと言われる重みの全てをこめてAの腹に練習通りの全力右ストレートを叩き込んだ。<BR><BR></span></strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200620192811.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200620192811" data-item-title="自分をいじめていたヤツを一撃で倒した" id="bm_item_20200620192811" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200620192811);ga("send", "event", "index_bm", "click", "自分をいじめていたヤツを一撃で倒した", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200620192811.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+
+<table>
+<tr>
+<td>
+    <iframe src="/ad_html/04_300x250_ps02.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+<td>
+    <iframe src="/ad_html/10_300x250_ps04.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">スワッピングの愛好者達に徐々に洗脳された話</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200119101132.html" class="hatena-bookmark-button" data-hatena-bookmark-title="スワッピングの愛好者達に徐々に洗脳された話" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-11 08:10:53</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    私は32歳になります主婦です。<BR><BR>子供達が小学校へ行くようになりましてから、時間に余裕が取れるようになりました。<BR><BR>それを切っ掛けにパートに出ることにしました。<BR><BR>そこで知り合った40歳の女性と意気投合してしまい、プライベートでも買い物へ行ったりなど数ヶ月後には、家族ぐるみのお付き合いにまで発展する関係になりました。<BR><BR>私達の子供がいることもあり、いつもは外が明るい時間帯でのお付き合いだったのです。<BR><BR>ところが彼女(美枝子さん)から「たまにはお酒を飲みながら夜までゆっくりと過ごさない？」と誘われました。<br><br>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200119101132.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200119101132" data-item-title="スワッピングの愛好者達に徐々に洗脳された話" id="bm_item_20200119101132" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200119101132);ga("send", "event", "index_bm", "click", "スワッピングの愛好者達に徐々に洗脳された話", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200119101132.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+
+<table>
+<tr>
+
+<td>
+    <iframe src="/ad_html/09_300x250_ps_cl_01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+
+<td>
+    <iframe src="/ad_html/09_300x250_ps01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">廃墟に行ってきた(山梨の清里)</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200319161103.html" class="hatena-bookmark-button" data-hatena-bookmark-title="廃墟に行ってきた(山梨の清里)" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-10 09:05:45</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：名無しって本当にいいものですね：2019/10/31(木) 01:01:10.025 ID:0OXnnPF+0HLWN.net</span><BR><strong><span class="fcs"><BR><a href="https://i.imgur.com/ZRIQzoV.jpg" target="_blank">https://i.imgur.com/ZRIQzoV.jpg</a><BR><a href="/media/img_20191104083720/images/001.jpg" target="_blank"><img src="/media/img_20191104083720/thumb/001.jpg" alt="廃墟に行ってきた_1"></a><br><BR></span><BR></strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200319161103.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200319161103" data-item-title="廃墟に行ってきた(山梨の清里)" id="bm_item_20200319161103" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200319161103);ga("send", "event", "index_bm", "click", "廃墟に行ってきた(山梨の清里)", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200319161103.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">嫁の浮気の現場を目撃して俺が壊れた。。。</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200719135048.html" class="hatena-bookmark-button" data-hatena-bookmark-title="嫁の浮気の現場を目撃して俺が壊れた。。。" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-09 08:45:28</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：だんな：2014/02/11(火) 17:31:17.98 0</span><BR><span class="fcs"><BR><strong>  8年前、嫁の浮気現場に遭遇して俺が壊れた。<BR><BR>  最近になって、ようやく普通になったので書き込もうと思う。<BR><BR>                              </strong></span><BR>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200719135048.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200719135048" data-item-title="嫁の浮気の現場を目撃して俺が壊れた。。。" id="bm_item_20200719135048" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200719135048);ga("send", "event", "index_bm", "click", "嫁の浮気の現場を目撃して俺が壊れた。。。", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200719135048.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+
+<table>
+<tr>
+
+<td>
+    <iframe src="/ad_html/09_300x250_ps_cl_01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+
+<td>
+    <iframe src="/ad_html/09_300x250_ps01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">アルコール依存症で入院してるけど質問ある？</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200829065926.html" class="hatena-bookmark-button" data-hatena-bookmark-title="アルコール依存症で入院してるけど質問ある？" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-08 07:30:33</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：以下、？ちゃんねるからVIPがお送りします：2020/08/26(水) 14:16:08.417 ID:H1faqYYRM.net</span><BR><strong><span class="fcs"><BR>  ひまだねえ<BR><BR></span><BR>                              </strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200829065926.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200829065926" data-item-title="アルコール依存症で入院してるけど質問ある？" id="bm_item_20200829065926" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200829065926);ga("send", "event", "index_bm", "click", "アルコール依存症で入院してるけど質問ある？", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200829065926.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">同棲中の彼女の手帳を見たら、まっクロだった</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200704165058.html" class="hatena-bookmark-button" data-hatena-bookmark-title="同棲中の彼女の手帳を見たら、まっクロだった" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-07 06:45:23</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">32 ：えっちな21禁さん：2005/04/27(水) 19:17:18 ID:ToVKiwb70</span><BR><strong><span class="fcs"><BR>  かなりタイムリー・・・<BR><BR>  昨日から同棲してる彼女が実家帰ってて、手帳忘れて行ってたし なんとなくみたら浮気しまくってる・・・<BR><BR>  なんかこんなん日記に書くなよ、って感じ・・<BR><BR>  生々しすぎるし・・<BR><BR></span></strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200704165058.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200704165058" data-item-title="同棲中の彼女の手帳を見たら、まっクロだった" id="bm_item_20200704165058" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200704165058);ga("send", "event", "index_bm", "click", "同棲中の彼女の手帳を見たら、まっクロだった", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200704165058.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+
+
+<table>
+<tr>
+
+<td>
+    <iframe src="/ad_html/09_300x250_ps_cl_01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+
+<td>
+    <iframe src="/ad_html/09_300x250_ps01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">彼女の態度が社員旅行以降おかしい</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200806162312.html" class="hatena-bookmark-button" data-hatena-bookmark-title="彼女の態度が社員旅行以降おかしい" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-06 06:55:39</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">290 ：山梨旅館 ◆onIGYCI0cc ：04/01/26 01:06 ID:VFert/7X</span><BR><span class="fcs"><BR><strong>  一応トリップ付けてみました。<BR><BR>  4年前の話。<BR><BR>  おれが会社に入社して5年目の時、短大を卒業したばかりの由紀子がうちの課に配属された。<BR><BR>  まだ二十歳そこそこの由紀子は、男ばかりの職場にとって花のような存在だった。<BR><BR>  顔は普通よりちょっとかわいいくらいだったが、スタイルが抜群によかった。<BR><BR>  特に大きい胸と、くびれたウエストのギャップがたまらなかった。<BR><BR>                              </strong></span><BR>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200806162312.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200806162312" data-item-title="彼女の態度が社員旅行以降おかしい" id="bm_item_20200806162312" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200806162312);ga("send", "event", "index_bm", "click", "彼女の態度が社員旅行以降おかしい", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200806162312.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">セフレと連絡つかなくなった</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20190412234951.html" class="hatena-bookmark-button" data-hatena-bookmark-title="セフレと連絡つかなくなった" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-05 07:40:26</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：以下、？ちゃんねるからVIPがお送りします：2019/04/06(土) 20:49:00.062 ID:MynnwaSm0.net</span><BR><strong><span class="fcs"><BR>  所詮は身体だけの関係だったのに、今めっちゃ辛い<BR><BR>  仕事に手がつかない<BR>  <BR>  失恋並みに辛い<BR><BR></span><BR>                              </strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20190412234951.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20190412234951" data-item-title="セフレと連絡つかなくなった" id="bm_item_20190412234951" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20190412234951);ga("send", "event", "index_bm", "click", "セフレと連絡つかなくなった", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20190412234951.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">会社の後輩が今日ノーパンらしい。さっき偶然発見してしまった。</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200916145333.html" class="hatena-bookmark-button" data-hatena-bookmark-title="会社の後輩が今日ノーパンらしい。さっき偶然発見してしまった。" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-10-01 10:10:52</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">824 ：えっちな21禁さん：2006/06/27(火) 16:25:00 ID:2lHOlNd80</span><BR><span class="fcs"><BR><strong>  うちの会社の事務兼雑用係、タムラミカ（２３仮名）は今日ノーパンらしい。<BR><BR>  さっきちょっとしたきっかけで発見した。<BR><BR>  彼女は俺が気づいたことを知らない。<BR><BR>  さて、この一件をどのように活用すべきか。<BR><BR>  誰かいいアイディアを授けてはくれまいか？<BR><BR>                              </strong></span><BR>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200916145333.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200916145333" data-item-title="会社の後輩が今日ノーパンらしい。さっき偶然発見してしまった。" id="bm_item_20200916145333" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200916145333);ga("send", "event", "index_bm", "click", "会社の後輩が今日ノーパンらしい。さっき偶然発見してしまった。", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200916145333.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">幼馴染と不倫した結果</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200930055755.html" class="hatena-bookmark-button" data-hatena-bookmark-title="幼馴染と不倫した結果" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-09-30 06:50:21</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：以下、？ちゃんねるからVIPがお送りします：2020/09/28(月) 19:12:48.881 ID:hn6xdr6i0.net</span><BR><strong><span class="fcs"><BR>  俺も相手も30 立ったら書く<BR><BR></span><BR>                              </strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200930055755.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200930055755" data-item-title="幼馴染と不倫した結果" id="bm_item_20200930055755" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200930055755);ga("send", "event", "index_bm", "click", "幼馴染と不倫した結果", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200930055755.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">ビッチお姉さんが彼女に昇格するにはどうしたらいい？</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20190413164417.html" class="hatena-bookmark-button" data-hatena-bookmark-title="ビッチお姉さんが彼女に昇格するにはどうしたらいい？" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-09-29 08:20:20</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：以下、？ちゃんねるからVIPがお送りします：2019/04/10(水) 22:48:29.369 ID:9kdm0O3JM.net</span><BR><strong><span class="fcs"><BR>  ムチムチ巨乳のアラサーお姉さん<BR><BR>  顔は割と可愛いけどビッチだからセフレにされているケース<br></span><BR>                              </strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20190413164417.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20190413164417" data-item-title="ビッチお姉さんが彼女に昇格するにはどうしたらいい？" id="bm_item_20190413164417" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20190413164417);ga("send", "event", "index_bm", "click", "ビッチお姉さんが彼女に昇格するにはどうしたらいい？", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20190413164417.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span class="index_board_title" style="font-weight:bold; color:#007700;">彼女の現実離れしたクズさ加減のため別れようとしたら</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 5px 10px 8px 10px ;">
+<div class="indent">
+<!-- board content -->
+
+
+<span clss="gcl" data-gcl-entity="index-btn-hatena">
+
+	<a href="http://b.hatena.ne.jp/entry/http://eegg.fun//text/20200725101518.html" class="hatena-bookmark-button" data-hatena-bookmark-title="彼女の現実離れしたクズさ加減のため別れようとしたら" data-hatena-bookmark-layout="simple" title="はてなブックマークに追加">
+
+		<img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="25" height="25" style="border: none;" />
+		はてなブックマークに追加 
+	</a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</span>
+&nbsp;&nbsp;
+<span style="font-size:0.8em;">2020-09-28 08:20:03</span>
+<br>
+<br>
+
+<div class="content2" style="word-wrap:break-word;">
+    <span class="lineheader">1 ：名無しさん＠おーぷん ：2014/05/09(金)13:43:31 ID:pdrNp05xG</span><BR><strong><span class="fcs"><BR>  １　仕事中に電話がきたが出れずそのまま放置し、帰りにラインで終わったからかえると報告すると激怒(電話で報告しなかったため)<br>  ２　仕事帰りに頼まれてた銘柄のプリンがコンビニに無かったため他のでもいいかと電話すると激怒<br>  ３　彼女がずっとネトゲしてたため、しかたなく携帯弄ったり３ＤＳしてたら、なぜかまわないのかと激怒<br>  ４　たまにはご飯作って待っててほしいというと激怒<br>  ５　おかずかって帰るからご飯炊いててというと激怒<br>  ６　彼女が飼いたいといって買ったハムが死んだから一緒に埋めに行こうというと激怒(ネトゲしてるのわからない！？と言われた)<br>  ７　忙しくて帰りが９時を越えそうと報告すると激怒<br>  ８　深夜３時に起こされコンビニに言ってきてほしいといわれ断ると激怒(彼女は深夜にネトゲ)<br>  ９　休みの日に部屋を掃除したいというと激怒(コレはなぜかわからない)<br>  １０　別れたい旨伝えると大激怒(部屋半壊)<br>  もう当分女はいいわ　<BR><BR>あと年下とはもう二度と付き合わん　<BR><BR>屑だわ<BR><BR></span></strong>
+</div>
+
+<br>
+<br>
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://eegg.fun//text/20200725101518.html" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<br>
+
+<div class="gcl" data-gcl-entity="index-article-list">
+    
+    <span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+
+	<button data-item-id="20200725101518" data-item-title="彼女の現実離れしたクズさ加減のため別れようとしたら" id="bm_item_20200725101518" type="button" class="btn btn-primary btn-sm bm_item caption_bm_btn_index" onClick='save_bm(20200725101518);ga("send", "event", "index_bm", "click", "彼女の現実離れしたクズさ加減のため別れようとしたら", 1);'>あとで読む</button>
+
+</div>
+<br>
+
+
+<div class="gcl" data-gcl-entity="index-article-list" style="width:100%; background-color:#f0f0f0;">
+	<span style="font-size:1.9em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+		&nbsp;&nbsp;
+		<a href="http://eegg.fun//text/20200725101518.html" style="color:#3366cc; text-decoration:underline;">
+			<span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+			続きを読む
+		</a>
+		&nbsp;&nbsp;
+	</span>
+</div>
+
+
+<div style="line-height:0.3em;">&nbsp;</div>
+
+      
+
+<!--/* VASCO iFrame Tag v */-->
+<iframe src="/ad_html/03_468x60_ps01.html" width="468" height="60" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+
+
+
+
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<div class="index_pager gcl" data-gcl-entity="index-pager-btm" style="font-size:1.6em; font-weight:bold;"> <a href="http://eegg.fun/index.pl?p=1">|< </a>&nbsp;
+1&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=2">2</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=3">3</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=4">4</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=5">5</a>&nbsp;&nbsp;
+<a href="http://eegg.fun/index.pl?p=283">>| </a>&nbsp;
+ </div>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<a href="/bm.pl">
+	<span style="text-decoration:underline;font-weight:bold;font-size:1.6em;color:#3366cc;">
+		<span class="glyphicon glyphicon-hand-right"></span>
+		後で読むリスト
+	</span>
+</a>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+<div class="extra-feed1"></div>
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<table>
+<tr>
+<td>
+<iframe src="/ad_html/05_300x250_p01.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>            
+</td>
+<td>
+<iframe src="/ad_html/05_300x250_p02.html" width="300" height="250" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>                        
+</td>
+</tr>
+</table>
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">カテゴリー</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<table style="width:100%;">
+<tr>
+<td style="vertical-align:top;">
+
+<span class="category_list gcl" data-gcl-entity="index-category">
+    <table>
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=80_adult" onclick='ga("send", "event", "tags_middle", "click", "大人の話題", 1);'> 大人の話題(1093) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=40_love" onclick='ga("send", "event", "tags_middle", "click", "男女・恋愛", 1);'> 男女・恋愛(897) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=30_lifehack" onclick='ga("send", "event", "tags_middle", "click", "人生・生活", 1);'> 人生・生活(661) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=25_houfuku" onclick='ga("send", "event", "tags_middle", "click", "復讐", 1);'> 復讐(509) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=76_tour" onclick='ga("send", "event", "tags_middle", "click", "旅行記(旅スレ)", 1);'> 旅行記(旅スレ)(296) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=20_warai" onclick='ga("send", "event", "tags_middle", "click", "面白系", 1);'> 面白系(173) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=71_qa" onclick='ga("send", "event", "tags_middle", "click", "質問ある？", 1);'> 質問ある？(107) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=73_site" onclick='ga("send", "event", "tags_middle", "click", "写真・CG・アート", 1);'> 写真・CG・アート(83) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=31_occult" onclick='ga("send", "event", "tags_middle", "click", "不思議・怖い話", 1);'> 不思議・怖い話(51) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=78_girl" onclick='ga("send", "event", "tags_middle", "click", "ガールズフォト", 1);'> ガールズフォト(51) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=10_read" onclick='ga("send", "event", "tags_middle", "click", "読み物", 1);'> 読み物(46) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=12_work" onclick='ga("send", "event", "tags_middle", "click", "仕事・スキル", 1);'> 仕事・スキル(43) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=21_buyuden" onclick='ga("send", "event", "tags_middle", "click", "武勇伝", 1);'> 武勇伝(41) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=70_etc" onclick='ga("send", "event", "tags_middle", "click", "その他", 1);'> その他(37) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=23_heartwarm" onclick='ga("send", "event", "tags_middle", "click", "いい話", 1);'> いい話(35) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=35_health" onclick='ga("send", "event", "tags_middle", "click", "からだ・心", 1);'> からだ・心(35) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=77_animal" onclick='ga("send", "event", "tags_middle", "click", "いきもの", 1);'> いきもの(34) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=24_nakeru" onclick='ga("send", "event", "tags_middle", "click", "泣ける話", 1);'> 泣ける話(33) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=41_date" onclick='ga("send", "event", "tags_middle", "click", "デート・モテネタ", 1);'> デート・モテネタ(32) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=50_com" onclick='ga("send", "event", "tags_middle", "click", "コンピュータ", 1);'> コンピュータ(29) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=11_serious" onclick='ga("send", "event", "tags_middle", "click", "シリアス", 1);'> シリアス(28) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=74_weapon" onclick='ga("send", "event", "tags_middle", "click", "兵器・乗り物・建物", 1);'> 兵器・乗り物・建物(26) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+		
+  		<tr>
+         	
+						<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=72_bookmovie" onclick='ga("send", "event", "tags_middle", "click", "映画・本・音楽", 1);'> 映画・本・音楽(21) </a>
+			</td>
+			
+		
+					<td>
+				<span style="color:#00aa00" class="glyphicon glyphicon-chevron-right"></span>
+  				<a href="/tags.cgi?tag=60_food" onclick='ga("send", "event", "tags_middle", "click", "食べ物", 1);'> 食べ物(20) </a>
+			</td>
+			
+        </tr>
+        
+		
+		
+			
+    </table>
+</span>
+
+
+</td>
+<td class="pc_only" style="width:305px;vertical-align:top;">
+<iframe src="/ad_html/07_300x600_p01.html" width="300" height="600" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</td>
+</tr>
+</table>
+
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">おすすめリンク</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<center><IFRAME id="frm_rss_index_2" SRC="/rss.html" NAME="space" FRAMEBORDER="0" style="width:100%;"></IFRAME></center>
+<div style="line-height:0.5em;">&nbsp;</div>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">AmazonPickup</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<center><IFRAME SRC="/iframe/middle.html?20180819" NAME="space" FRAMEBORDER="0" scrolling="no" style="width:100%;height:900px;"></IFRAME></center>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div id="ifr05"></div>
+<script type="text/javascript">
+var ifr05 = document.createElement('iframe');
+ifr05.scrolling = "no";
+if(ee.is_sp){
+    ifr05.setAttribute("style", "width:320px;height:100px;margin:0;padding:0px;border:0;");
+    ifr05.setAttribute("src", "/ad_html/04_320x100_s01.html");
+}else{
+    ifr05.setAttribute("style", "width:728px;height:90px;margin:0;padding:0px;border:0;");
+    ifr05.setAttribute("src", "/ad_html/04_728x90_p01.html");
+}
+document.getElementById("ifr05").appendChild(ifr05);
+</script>
+
+
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">おすすめリンク2</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<center><IFRAME id="frm_rss_index_3" SRC="/rss_main.html" NAME="space" FRAMEBORDER="0" width="100%"></IFRAME></center>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<a name="dendou"></a>
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">殿堂入りのおすすめ記事</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<div class="gcl dendou_line" data-gcl-entity="index-dendou" style="LINE-HEIGHT: 1.5em; font-size: 1.4em; margin:0 0 0 0;">
+    <ul>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20100611002831.html">戦争の体験談を語るわ</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20141226230317.html">妻からの間違いメール</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20150502115930.html">汚嫁の凄まじい内容の浮気に数ヵ月前から完璧な準備を重ね、仕掛け発動後、高見の見物しながら実況する</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20131203163356.html">急用で単身赴任先から自宅に戻ると嫁が全裸で四つんばいで男とパコパコしてた。その後、色々あり最終的に完全勝利へ。</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20111231133331.html">バイクで日本一周してる女の子と仲良くなった話</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20080114223857.html">興信所には依頼済みだ。明日の報告が待ち遠しい。待ってろよ、地獄を見せてやるから。</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20070827231425.html">僕とオタと姫様の物語 </a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20160620142809.html">今週末、夫に会いにいきます。</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20140713182729.html">汚嫁の浮気から発覚した計画が、もはや犯罪レベルの内容だった</a>
+            <br>
+                    <span style="color:#00aa00;" class="glyphicon glyphicon-chevron-right"></span>
+            <a href="/text/20130316112653.html">何者にもなれないお前たちに旦那の遺言を告げる</a>
+            <br>
+            </ul>
+</div>
+
+<div style="line-height:0.5em;">&nbsp;</div>
+<span class="gcl" data-gcl-entity="index-dendou-next" style="font-size:1.8em;font-weight:bold;font-family:'平成明朝', 'ヒラギノ明朝 Pro W3', '小塚明朝 Pro M','Kozuka Mincho Pro M', 'ＭＳ Ｐ明朝','serif';">
+    <a href="/etc/dendou.pl" style="color:#3366cc; text-decoration:underline;">
+        <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>
+        続きを見る
+    </a>
+    <br>
+</span>
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">人気記事（7days）</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<div class="gcl" data-gcl-entity="article-rank_7day">
+    <script src="/js/readend_rank.js" defer></script>
+    <div id="readend_rank"></div>
+</div>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;">お世話になっているサイト様</span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+<div class="gcl" data-gcl-entity="index-acr-sougo-rank">
+    <table style="width:100%;">
+        <tr>
+            <td style="vertical-align:top;">
+            <!--
+                <iframe id="frm_acr_sites" src="/ad_html/acr_sites.html" width="370" height="2200" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+            -->
+
+                <!-- 逆アクセスランキングツール -->
+                <div id="blz_rank_800_2665">
+                <script type="text/javascript">
+                <!--
+                var blzP='rank',blzU='800',blzT='2665';
+                -->
+                </script>
+                <script src="//js.blozoo.info/js/ranktool/blogparts_2.js"></script>
+                </div>
+                <!-- https://blozoo.com/ -->
+
+            </td>
+
+            <td style="width:310px;vertical-align:top;">
+                <iframe src="/ad_html/07_300x600_p02.html" width="300" height="600" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+                <br>
+                <iframe src="/ad_html/07_300x600_p03.html" width="300" height="600" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+                <br>
+                <iframe src="/ad_html/07_300x600_p04.html" width="300" height="600" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+            </td>
+
+        </tr>
+    </table>
+</div>
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+				<div id="content_main_area_end"></div>
+				<div id="ad_result"></div>
+			</div><!-- /contents main area-->
+
+						<!--
+			<div class="contents_side_area" width="100%">
+			-->
+			<div class="contents_side_area" ><!-- contents side area -->
+			    
+<div id="side_area_begin" style="line-height:0.1em;">&nbsp;</div>
+
+<IFRAME id="frm_content_side_area" SRC="/side_menu.html" NAME="space" FRAMEBORDER="0" scrolling="no" style="width:250px; height:12500px;"></IFRAME>
+
+
+                <div id="ad_point"></div>
+			</div><!-- /contents side area -->
+
+						<div class="contents_bottom_area"><!-- contents bottom area  -->
+				
+
+
+
+
+
+<div style="line-height:0.5em;">&nbsp;</div>
+<div class="innerframe">
+<div class="curve">
+<div class="curve-head"><div></div></div>
+<div STYLE="PADDING: 0px 0px 0em 1em ; color:#fff; " >
+<h1 class="custom"><span style="font-weight:bold; color:#D9761F;"></span></h1>
+</div></div>
+<div class="whiteboard"><div class="top"><div></div></div>
+<div STYLE="padding: 4px 4px 4px 4px;">
+<div class="indent">
+<!-- board content -->
+
+<div style="line-height:0.5em;">&nbsp;</div>
+
+
+
+
+
+
+
+<table style="width:100%;">
+	<tr>
+		<td>
+			<IFRAME id="frm_rss_bottom1" SRC="/rssline2.html" NAME="space" FRAMEBORDER="0" style="width:100%;"></IFRAME>
+		</td>
+
+		<td style="width:310px;">
+            <iframe src="/ad_html/07_300x600_p05.html" width="300" height="600" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+		</td>
+
+	</tr>
+</table>
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<IFRAME id="frm_rss_bottom2" SRC="/rss_link.html" NAME="space" FRAMEBORDER="0" style="width:100%;"></IFRAME>
+<div style="line-height:0.5em;">&nbsp;</div>
+
+<div class="gcl" data-gcl-entity="base-bottom-blogring">
+<iframe id="frm_nin_ga" src="/ad_html/nin_ga.html" width="950" height="350" scrolling="no" frameborder="0" style="border:0;margin:0;padding:0;"></iframe>
+</div>
+
+<!-- /board content -->
+</div><!-- /indent -->
+</div><!-- /padding -->
+<div class="bottom"><div></div></div>
+</div><!-- /curve -->
+</div><!-- /innerframe -->
+
+
+			</div><!--/ contents bottom area -->
+
+			<div style="line-height:0.5em;">&nbsp;</div>
+
+					</div><!--/ outer -->
+
+				<div class="footer_area"><!-- footer area  -->
+
+			<div style="line-height:0.5em;">&nbsp;</div>
+
+			<table align="center" border="0">
+            <tr>
+            <td>
+                <ul class="nav navbar-nav" style="font-size:1.5rem;">
+                    <li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>TOP</a></li>
+                    <li><a href="/etc/about.pl"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>About</a></li>
+                    <li><a href="/popular.pl"><span class="glyphicon glyphicon-king" aria-hidden="true"></span>人気記事</a></li>
+                    <li><a href="/etc/dendou.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>殿堂入り</a></li>
+                    <li><a href="/etc/pickup_adt.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>特集(大人の話題)</a></li>
+                    <li><a href="/etc/pickup_hou.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>特集(復讐の話題)</a></li>
+                    <li><a href="/etc/pickup_tabi.pl"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span>特集(旅スレ)</a></li>
+                    <li><a href="/tags.pl?tag=25_houfuku"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span>カテゴリ別</a></li>
+                    <li><a href="/bm.pl"><span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span>後で読むリスト</a></li>
+                    <li><a href="/index.rdf" target="_blank">RSS</a></li>
+                    <!-- 
+                    <li><a href="http://twitter.com/#!/eegg2" target="_blank"><i class="fa fa-twitter" style="font-size:1.0em;"></i>Twitter</a></li>
+                    -->
+                    <!--
+                    <li><a href="/etc/links.pl"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>相互リンク</a></li>
+                    -->
+                </ul>
+            </td>
+            </tr>
+			</table>
+	
+
+			<br>
+			<br>
+
+			<div class="copy">
+				easterEgg [イースターエッグ] : <a href="/">http://eegg.fun/</a>&nbsp;&nbsp;&nbsp;&nbsp;Mail: <a href="mailto:2easteregg@gmail.com">2easteregg@gmail.com</a>
+			</div><!--/ copy -->
+
+            <script src="/js/bootstrap.min.js"></script>
+			<script src="/js/bm.js?20170815" defer></script>
+			<script src="/js/gcl3.js" defer></script>
+			<script src="/js/ad.js?20170721" defer></script>
+            <script src="/js/ad_bottom_item.js?20180820_1" defer></script>
+            <script src="/js/ad_kiji_amz_text.js?20180904_3" defer></script>
+
+			<script src="/js/gcl2.js" defer></script>
+			<script src="/js/exfd1.js" defer></script>
+			<script src="/js/exfd2.js" defer></script>
+
+
+						<div id="g_floating_area1" style="display:none;top:0px;z-index:10000000000;right:50%;">
+				<!-- Geniee ad tags Size: 160x600 ZoneId:14454-->
+				<div class="pc_only">
+                    <br>
+                    <br>
+                    <br>
+					<iframe id='ac14454be' name='ac14454be' src='http://aladdin.genieesspv.jp/yie/ld/ifk?zoneid=14454' frameborder='0' scrolling='no' width='160' height='600'></iframe>
+				</div>
+			</div>
+
+			<div id="g_floating_area2" style="display:none;top:0px;z-index:10000000000;left:50%;">
+				<!-- Geniee ad tags Size: 160x600 ZoneId:14455-->
+				<div class="pc_only">
+                    <br>
+                    <br>
+                    <br>
+					<iframe id='ac14455be' name='ac14455be' src='http://aladdin.genieesspv.jp/yie/ld/ifk?zoneid=14455' frameborder='0' scrolling='no' width='160' height='600'></iframe>
+				</div>
+			</div>
+
+			<script type="text/javascript">
+			window.__gnsj = {
+				"contents_width": 987, //
+				"extra_margin"  : 5 //
+			};
+			</script>
+			<script type="text/javascript">
+			(function() {
+				var gfparam = window.__gnsj;
+				if(typeof gfparam != "undefined") {
+					var cw = gfparam["contents_width"];
+					var em = gfparam["extra_margin"] || 0;
+					var hcw = cw / 2;
+					var t1 = document.getElementById("g_floating_area1");
+					var t2 = document.getElementById("g_floating_area2");
+					t1.style.marginRight = hcw + em + "px";
+					t2.style.marginLeft  = hcw + em + "px";
+					t1.style.position = "fixed";
+					t2.style.position = "fixed";
+					t1.style.display = "block";
+					t2.style.display = "block";
+				}
+			})();
+			</script>
+		</div><!--/ footer area -->
+
+
+        <!-- Twitter universal website tag code -->
+        <script>
+        !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+        },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+        // Insert Twitter Pixel ID and Standard Event data below
+        twq('init','o1eld');
+        twq('track','PageView');
+        </script>
+        <!-- End Twitter universal website tag code -->
+	</body>
+</html>
